@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Sailec';
+  src: url('/../fonts/Sailec-Regular.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url('/../fonts/Sailec-Hairline.otf') format('otf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url('/../fonts/Sailec-Light.otf') format('otf');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url('/../fonts/Sailec-Medium.otf') format('otf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url('/../fonts/Sailec-Bold.otf') format('otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url('/../fonts/Sailec-Black.otf') format('otf');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'monaco';
+  src: url('/../fonts/manaco.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Sailec' !important;
+}
